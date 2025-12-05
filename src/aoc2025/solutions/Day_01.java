@@ -1,4 +1,4 @@
-package solutions;
+package aoc2025.solutions;
 
 public class Day_01
 {
