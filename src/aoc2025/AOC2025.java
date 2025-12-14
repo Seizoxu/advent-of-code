@@ -7,7 +7,10 @@ public class AOC2025
 //		System.out.printf("Day 1 (P1) Count: %s%n", Day01.solveP1());
 //		System.out.printf("Day 1 (P2) Count: %s%n", Day01.solveP2());
 
-//		System.out.printf("Day 2 (P1) Count: %s%n", Day02.solveP1());
-		System.out.printf("Day 2 (P2) Count: %s%n", Day02.solveP2());
+//		System.out.printf("Day 2 (P1) ID Sum: %s%n", Day02.solveP1());
+//		System.out.printf("Day 2 (P2) ID Sum: %s%n", Day02.solveP2());
+		
+		System.out.printf("Day 3 (P1) Voltage Total: %s%n", Day03.solveP1());
+		System.out.printf("Day 3 (P2) Voltage Total: %s%n", Day03.solveP2());
 	}
 }
